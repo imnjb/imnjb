@@ -1,6 +1,6 @@
 ## Hi👋
 
-<img src="https://img.shields.io/badge/JAVA-#512BD4?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat-square&logo=JAVA&logoColor=white"/>
 
 <!--
 **imnjb/imnjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
