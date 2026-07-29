@@ -2,8 +2,6 @@
 
 ## 정범의 깃허브 
 
-## 이번 강의를 듣고 있는 남정범입니다. 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=JB&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 
 <div id="header" align="center">
